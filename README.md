@@ -49,4 +49,17 @@ SkillSync/
 git clone https://github.com/YOUR_USERNAME/skillsync-ai.git
 cd skillsync-ai
 
+
+2. Start Backend
+cd backend
+npm install
+node server.js
+
+3. Start Frontend
+cd frontend
+npm install
+npm run dev
+
+Author
+Made with ❤️ by Raghu Pagadala
 MIT © 2025 Raghu Pagadala
