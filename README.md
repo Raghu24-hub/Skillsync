@@ -64,5 +64,3 @@ npm run dev
 Author
 Made with ❤️ by Raghu Pagadala
 MIT © 2025 Raghu Pagadala
-=======
-
