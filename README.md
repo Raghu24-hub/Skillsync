@@ -1,3 +1,4 @@
+
 # SkillSync – AI-Powered Resume Matcher 🔍✨
 
 **SkillSync** is a modern web application that uses AI-like logic to analyze a resume against a job description and deliver a **match score**, **missing skills**, and **personalized suggestions**. Built with 💻 React.js, TailwindCSS, Node.js, and Express.
@@ -63,3 +64,5 @@ npm run dev
 Author
 Made with ❤️ by Raghu Pagadala
 MIT © 2025 Raghu Pagadala
+=======
+
